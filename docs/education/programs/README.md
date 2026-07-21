@@ -12,7 +12,7 @@
 ## Structure (planned)
 
 ```
-programs/
+docs/education/programs/
 ├─ foundation/
 │  ├─ README.md
 │  └─ curriculum-outline.md
