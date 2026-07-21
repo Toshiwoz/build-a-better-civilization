@@ -24,7 +24,7 @@ Definir un conjunto público y revisable de capacidades fundamentales. Las disci
 ## Beneficios esperados
 
 - Mejor relación entre lo aprendido y la vida cotidiana.
-- Mayor coherencia con el propósito de [[EDU-001-purpose-of-education]].
+- Mayor coherencia con el propósito de [EDU-001 — Propósito de la institución educativa](education/proposals/EDU-001-purpose-of-education.md).
 - Mayor facilidad para integrar proyectos interdisciplinarios.
 
 ## Riesgos y efectos no deseados
@@ -49,8 +49,8 @@ No se ha establecido que una organización por capacidades supere en todos los c
 
 ## Dependencias y relaciones
 
-- Se apoya en [[EDU-001-purpose-of-education]].
-- Se relaciona con [[EDU-007-curriculum-inclusion-criterion]].
+- Se apoya en [EDU-001 — Propósito de la institución educativa](education/proposals/EDU-001-purpose-of-education.md).
+- Se relaciona con [EDU-007 — Criterio de pertenencia al currículo](education/proposals/EDU-007-curriculum-inclusion-criterion.md).
 
 ## Estado de las afirmaciones
 
