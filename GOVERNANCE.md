@@ -18,7 +18,7 @@ This document defines lightweight decision and approval rules for the Build a Be
 | Status change to "In discussion" | Author judgment | Update status in PR |
 | Status change to "Accepted (provisional)" | At least 1 review + no unresolved objections | PR review |
 | Changes to `EDU-001` or other foundational concepts | Discussion + 2 reviews | PR with linked Issue |
-| Changes to `GOVERNANCE.md`, `CONTRIBUTING.md`, or `contribution-methodology.md` | 2 reviews | PR with linked Issue |
+| Changes to `GOVERNANCE.md`, `CONTRIBUTING.md`, or `methodology/contribution-methodology.md` | 2 reviews | PR with linked Issue |
 | Structural changes (moving folders, renaming) | Discussion | PR with linked Issue describing rationale |
 
 ## Review expectations
