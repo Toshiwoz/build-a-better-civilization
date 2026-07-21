@@ -12,7 +12,7 @@ The knowledge base uses a three-layer hierarchy:
 
 1. **Orientation layer** — `README.md`, `INDEX.md`, `CONTRIBUTING.md`, `GOVERNANCE.md`
 2. **Concept layer** — `docs/education/concepts/` (concise canonical definitions, e.g. `EDU-001`)
-3. **Detail / implementation layer** — `docs/education/proposals/`, `programs/`, `teaching/`, `tools/`, `operations/`, `references/`
+3. **Detail / implementation layer** — `docs/education/proposals/`, `docs/education/programs/`, `docs/education/teaching/`, `docs/education/tools/`, `docs/education/operations/`, `docs/education/references/`
 
 Each major folder contains a `README.md` describing its scope and first documents to read.
 
