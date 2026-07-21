@@ -28,4 +28,4 @@ docs/education/programs/
 
 ## Status
 
-This folder is scaffolded. Contributions are welcome — see [CONTRIBUTING.md](../../../../CONTRIBUTING.md) to get started.
+This folder is scaffolded. Contributions are welcome — see [CONTRIBUTING.md](../../../CONTRIBUTING.md) to get started.
