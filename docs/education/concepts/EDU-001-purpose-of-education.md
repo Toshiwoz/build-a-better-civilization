@@ -23,7 +23,7 @@ Human development is the guiding criterion for educational decisions. Curricula,
 
 ## Relationship to other docs
 
-- Detailed proposal and evidence: [`education/proposals/EDU-001-purpose-of-education.md`](../proposals/EDU-001-purpose-of-education.md)
+- Detailed proposal and evidence: [`docs/education/proposals/EDU-001-purpose-of-education.md`](../proposals/EDU-001-purpose-of-education.md)
 - Related concept: [EDU-002 — Principles of Learning](EDU-002-principles-of-learning.md)
 - Related concept: [EDU-003 — Learner Outcomes Framework](EDU-003-learner-outcomes-framework.md)
 - System overview: [`EDU-ARCH-001`](../architecture/EDU-ARCH-001-system-overview.md)

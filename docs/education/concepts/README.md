@@ -25,7 +25,7 @@ Concept documents follow the pattern `EDU-NNN-title-kebab-case.md`. IDs are neve
 
 ## How to add a concept doc
 
-1. Pick the next available `EDU-NNN` ID.
+1. Pick the next available `EDU-NNN` ID. Check the table above and [EDU-ARCH-002 Content Map](../architecture/EDU-ARCH-002-content-map.md) for existing IDs to avoid collisions.
 2. Copy the metadata header from an existing concept doc.
 3. Keep content concise and structural — link to proposals for detail.
 4. Add a row to the table above.

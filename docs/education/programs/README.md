@@ -24,7 +24,7 @@ programs/
 
 - [EDU-002 — Human Capabilities Curriculum (proposal)](../proposals/EDU-002-human-capabilities-curriculum.md)
 - [EDU-003 — Autonomy Levels Curriculum (proposal)](../proposals/EDU-003-autonomy-levels-curriculum.md)
-- [EDU-003 — Learner Outcomes Framework (concept)](../concepts/EDU-003-learner-outcomes-framework.md)
+- [EDU-003 concept — Learner Outcomes Framework](../concepts/EDU-003-learner-outcomes-framework.md)
 
 ## Status
 

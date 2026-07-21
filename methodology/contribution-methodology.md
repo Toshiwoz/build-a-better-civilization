@@ -34,9 +34,11 @@ A proposal may be in one of these states:
 - **Draft:** structured idea pending review.
 - **In discussion:** receiving critiques, alternatives, or additional evidence.
 - **Accepted (provisional):** guides current work, but remains open to revision.
-- **Replaced:** another proposal improves or supersedes it; the historical link is preserved.
-- **Deprecated:** no longer relevant; marked with a note explaining why.
+- **Replaced:** another proposal improves or supersedes it. The original file is preserved and linked to its successor. Use this when a new proposal directly addresses the same question.
+- **Deprecated:** the document is no longer applicable (e.g., the context has changed, or it was a scaffolding placeholder). The file is preserved and marked with a deprecation note explaining why. Use this when there is no single successor document.
 - **Rejected:** not adopted, with documented reasons.
+
+Documents are never deleted. All status transitions should be recorded in the document's version history section.
 
 ## Naming conventions
 

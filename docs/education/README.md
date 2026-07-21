@@ -21,8 +21,8 @@ This section is the central knowledge base for the education domain of the Build
 
 ## Current open proposals
 
-Browse [GitHub Issues](https://github.com/Toshiwoz/build-a-better-civilization/issues) for open questions and problems.  
-Browse [Pull Requests](https://github.com/Toshiwoz/build-a-better-civilization/pulls) for active document proposals.
+Browse the repository's [Issues](../../issues) for open questions and problems.  
+Browse the repository's [Pull Requests](../../pulls) for active document proposals.
 
 ## Folder structure
 
