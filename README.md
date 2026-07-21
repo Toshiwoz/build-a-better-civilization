@@ -1,31 +1,44 @@
 # Build a Better Civilization
 
-Una base de conocimiento colaborativa para explorar, criticar y mejorar propuestas sobre cómo una civilización puede florecer de forma humana, resiliente y sostenible.
+A collaborative knowledge base for exploring, critiquing, and improving proposals on how civilization can flourish in a human, resilient, and sustainable way.
 
-El proyecto no archiva conversaciones: transforma ideas en contribuciones independientes, trazables y revisables.
+The project does not archive conversations: it transforms ideas into independent, traceable, and reviewable contributions.
 
-## Principios de trabajo
+## Start here
 
-- Markdown es el formato canónico.
-- Cada propuesta tiene un identificador estable, por ejemplo `EDU-001`.
-- Las afirmaciones se distinguen como **verificadas**, **inferidas** o **especulativas**.
-- Las críticas y las incertidumbres se conservan junto con la propuesta.
-- Una propuesta puede cambiar de estado cuando la evidencia o la discusión lo justifiquen.
+- [Full project index](INDEX.md)
+- [Education — main domain](docs/education/README.md)
+- [How to contribute](CONTRIBUTING.md)
+- [Roadmap](ROADMAP.md)
 
-## Empezar a leer
+## Main domains
 
-- [Índice del proyecto](INDEX.md)
-- [Metodología de contribuciones](methodology/contribution-methodology.md)
-- [Guía para contribuir](CONTRIBUTING.md)
-- [EDU-001: Propósito de la institución educativa](education/proposals/EDU-001-purpose-of-education.md)
+| Domain | Entrypoint | Status |
+|--------|-----------|--------|
+| Education | [docs/education/README.md](docs/education/README.md) | Active |
 
-## Estructura
+## How to contribute
+
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the workflow.
+2. Browse [open Issues](https://github.com/Toshiwoz/build-a-better-civilization/issues) for problems or questions.
+3. Review [open Pull Requests](https://github.com/Toshiwoz/build-a-better-civilization/pulls) for active proposals.
+4. Use [methodology/contribution-methodology.md](methodology/contribution-methodology.md) for quality standards.
+
+## Working principles
+
+- Markdown is the canonical format.
+- Each proposal has a stable identifier, e.g. `EDU-001`.
+- Claims are distinguished as **verified**, **inferred**, or **speculative**.
+- Critiques and uncertainties are preserved alongside proposals.
+- A proposal may change status when evidence or discussion justifies it.
+
+## Repository structure
 
 ```text
-methodology/        Cómo se crean y revisan las contribuciones
-education/          Propuestas, evidencia, discusiones y decisiones educativas
-evidence/           Evidencia transversal y bibliografía compartida
-decisions/          Decisiones que afectan a todo el proyecto
+docs/               Domain knowledge (education and future domains)
+methodology/        How contributions are created and reviewed
+evidence/           Cross-domain evidence and shared bibliography
+decisions/          Decisions affecting the entire project
 ```
 
-La carpeta del repositorio puede abrirse directamente como bóveda de Obsidian cuando sea útil; los archivos siguen siendo Markdown independiente de esa aplicación.
+> The repository can be opened as an Obsidian vault when useful; files remain standard Markdown regardless.
